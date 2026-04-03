@@ -1,2 +1,2 @@
 # simon-says-game
-A JavaScript based Simon Says memory game
+A JavaScript ,HTML And CSS based Simon Says memory game
